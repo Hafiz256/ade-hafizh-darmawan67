@@ -10,7 +10,7 @@
           <a href="tugas 1.html" >list</a>
           <a href="tugas 2.html" >table</a>
           <a href="tugas 3.html" >from</a>
-          <a href="tugas 4.html" >belum</a>
+          <a href="tugas 4.html" >css</a>
         </p>
     </body>
 </html>
